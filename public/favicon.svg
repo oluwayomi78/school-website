@@ -1,0 +1,9 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- The Background Container -->
+  <rect width="32" height="32" rx="8" fill="#2563EB"/>
+  
+  <!-- The Graduation Cap Icon (White) -->
+  <path d="M6 12L16 7L26 12L16 17L6 12Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10 14V19C10 19 12 21 16 21C20 21 22 19 22 19V14" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22 12V18" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
